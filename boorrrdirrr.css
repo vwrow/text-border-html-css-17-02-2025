@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(62, 121, 185);
+}
+
+.btn-red{padding:10px; background:red; color: white;}
+.btn-blue{padding:10px; background:blue; color: white;}
+.btn-green{padding:10px; background:green; color: white;}
+
+.solid{
+    border-style: solid;border-width: 4px; color: black;
+}
+.dotted{
+    border-style: dotted;border-width: 4px; color: black;
+}
+.double{
+    border-style: double;border-width: 4px; color: black;
+}
+.ridge{
+    border-style: ridge;border-width: 4px;
+}
+.inset{
+    border-style: inset;border-width: 4px;
+}
+.outset{
+    border-style: outset;border-width: 4px;
+}
+.round{
+    border-style: round;border-width: 4px;
+}

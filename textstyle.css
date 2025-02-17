@@ -1,0 +1,21 @@
+.maroon {color: #820004;}
+.navy {color: #05004c;}
+.indigo {color: #5d76cb;}
+.spacing {letter-spacing: 1.5px; word-spacing:3px; line-height: 50px;}
+
+
+.uppercase{text-transform: uppercase;}
+.lowercase{text-transform: lowercase;}
+.capitalize{text-transform: capitalize;}
+
+.paragraf{
+    font-family: cursive;
+    font-size: medium;
+}
+ul{
+    list-style-type: disc;
+}
+li{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+}
